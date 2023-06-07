@@ -1,2 +1,2 @@
 #!/bin/bash
-dir=$(pwd)
+realpath "$0x00-shell_basics"
